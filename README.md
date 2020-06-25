@@ -15,3 +15,6 @@
 
 
 **Clone this project and get started**
+
+
+### Note: You need to import the **css** file on your **js** file. No need to import the **css** file on the **HTML** file
